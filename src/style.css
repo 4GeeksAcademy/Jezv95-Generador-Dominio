@@ -3,3 +3,10 @@
 body{
     background: white;
 }
+
+li{
+  
+    list-style: none;
+    padding: 1rem;
+    margin: 1rem;
+}
